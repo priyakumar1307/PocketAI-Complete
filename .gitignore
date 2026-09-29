@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+pocketsmart.db
+.pytest_cache/
+app/static/uploads/*
